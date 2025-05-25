@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+transformers
+xgboost
+mne
+zipfile36
